@@ -21,7 +21,8 @@ const Home = () => {
            <h3>Hey, I'm</h3>
             <h1>Krishna Reddy Ganugapenta</h1>
             <h4>Full Stack React Developer</h4>
-            <p className='p1'>I love to build web applications and like to develop colurful websites. Also, I like pushing myself and taking up new challenges.</p>
+            <p className='p1'>I love building innovative web applications by fostering a passionate commitment to excellence and willing to
+ relocate.</p>
             <div className='content_home' >
               <a href='https://mail.google.com/mail/' target='_blank'><FiMail/><p>venkatk0615@gmail.com</p></a>
               <a href="https://www.google.com/maps/place/Alpharetta" target='_blank'><FcHome/><p>Alpharetta, Georgia, Unites States</p></a>
